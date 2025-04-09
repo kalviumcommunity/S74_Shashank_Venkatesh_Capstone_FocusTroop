@@ -2,8 +2,6 @@
 
 **FocusTroop** is a collaborative productivity platform that helps individuals and groups stay focused using structured **Pomodoro sessions**, **goal tracking**, and **group accountability**. Built for students, remote teams, and solo workers who want to optimize their time and reduce distractions.
 
-> Developed as part of the final year B.Tech CSE Capstone Project.
-
 ---
 
 ## 📚 Table of Contents
