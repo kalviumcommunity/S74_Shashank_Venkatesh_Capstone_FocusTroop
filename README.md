@@ -13,12 +13,6 @@
 - [Objectives](#objectives)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [System Architecture](#system-architecture)
-- [Setup Instructions](#setup-instructions)
-- [Screenshots](#screenshots)
-- [Future Scope](#future-scope)
-- [Team](#team)
-- [License](#license)
 
 ---
 
